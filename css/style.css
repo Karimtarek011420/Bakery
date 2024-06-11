@@ -2,6 +2,9 @@ header{
 background-image: url("../images/drew-coffman-1872.jpg");
 background-size: 100% 100%;
 }
+header .navbarimg{
+    width: 150px;
+}
 header .navbarColor ,.submit,footer {
     background-color: #81663f;
 
